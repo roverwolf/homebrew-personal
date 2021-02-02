@@ -1,4 +1,4 @@
-class UnrarAT602 < Formula
+class Unrar < Formula
   desc "Extract, view, and test RAR archives"
   homepage "https://www.rarlab.com/"
   url "https://www.rarlab.com/rar/unrarsrc-6.0.2.tar.gz"
